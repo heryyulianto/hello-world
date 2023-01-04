@@ -4,3 +4,4 @@ C++ programming
 Python programming
 PHP progamming
 Javascript programming
+SQL progamming
