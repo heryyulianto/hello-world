@@ -3,10 +3,10 @@ Golang programming
 C++ programming
 Python programming
 PHP progamming
+^^ Laravel
 ^^ CodeIginiter
 Javascript programming
 SQL progamming
 Framework JavaScript
 ^^ VueJs
 ^^ React
-Flutter
